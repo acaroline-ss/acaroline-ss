@@ -2,7 +2,7 @@
 
 🎓 Student of **Artificial Intelligence and Data Science** at the University of Porto.  
 💻 I’m interested in **Machine Learning**, **Data Engineering**, **LLMs**, and the development of intelligent solutions applied to real-world problems.  
-🚀 I’m constantly seeking to improve my technical skills and apply them in practical and collaborative projects.
+🚀 Constantly improving my technical skills and applying them to practical and collaborative AI projects.
 
 ## 🧰 Technologies & Tools
 <p>
