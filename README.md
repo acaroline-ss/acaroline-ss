@@ -1,23 +1,48 @@
-# 👋 Hi, I'm Ana Soares
+# Hi, I'm Ana Soares
 
-🎓 Student of **Artificial Intelligence and Data Science** at the University of Porto.  
-💻 I’m interested in **Machine Learning**, **Data Engineering**, **LLMs**, and the development of intelligent solutions applied to real-world problems.  
-🚀 Constantly improving my technical skills and applying them to practical and collaborative AI projects.
+🎓 Student of **Artificial Intelligence and Data Science** at the University of Porto, focused on building **intelligent and automated solutions** that reduce manual work and support data-driven decision making.
 
-## 🧰 Technologies & Tools
+💡 My main interests are **AI automation**, **Machine Learning**, **LLMs**, **Data Engineering**, and **SQL-based data analysis**, always applied to real-world and business-oriented problems.
+
+🚀 I enjoy designing workflows, integrating systems, and transforming data into practical solutions through automation and AI.
+
+---
+
+## 🧰 Core Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,docker,git,github,vscode,linux,java" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,docker,git" />
 </p>
 
+## 🔄 Automation Platforms
+[![n8n](https://img.shields.io/badge/n8n-FF6C5F?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io) [![Zapier](https://img.shields.io/badge/Zapier-FF6600?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com) [![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)](https://make.com)
+
+## 🗄️ Databases & Tools
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev) [![Neo4j](https://cdn.simpleicons.org/neo4j?size=48)](https://neo4j.com) 
+
 ## 📊 GitHub Statistics
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=acaroline-ss&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaroline-ss&layout=compact&theme=default)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=acaroline-ss&show_icons=true&theme=dark" height="150" alt="Estatísticas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acaroline-ss&layout=compact&theme=dark&hide=jupyter%20notebook&count_private=true" height="150" alt="Linguagens" />
+</p>
 
-## 📂 Featured Projects
-- 🤖 [**Auto-Documentation Workflow**](https://github.com/acaroline-ss/AutonomousDocumentationWithN8N.git) — Automated documentation pipeline using n8n and LLMs.  
-- 📈 [**Student Performance ML**](https://github.com/aldeas19/datascproj.git) — Prediction model for student approval/rejection using Random Forest and Logistic Regression.  
-- 🧩 [**Wood Block AI Game**](https://github.com/acaroline-ss/wood_block_game.git) — Interactive game with intelligent piece-fitting logic.
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acaroline-ss&theme=dark" height="150" alt="Streak" />
+</p>
+
+
+
+## 🚀 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/acaroline-ss/AutonomousDocumentationWithN8N">
+    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=acaroline-ss&repo=AutonomousDocumentationWithN8N&theme=dark" />
+  </a>
+  <a href="https://github.com/acaroline-ss/AnaliseDatasetXWines">
+    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=acaroline-ss&repo=AnaliseDatasetXWines&theme=dark" />
+  </a>
+</p>
+
 
 ## 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarolinessilva)
