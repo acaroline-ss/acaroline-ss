@@ -31,6 +31,9 @@
 </p>
 
 
+## 🐍 Snake Game
+![github contribution grid snake animation](https://raw.githubusercontent.com/acaroline-ss/acaroline-ss/output/github-snake-dark.svg)
+
 
 ## 🚀 Featured Projects
 
